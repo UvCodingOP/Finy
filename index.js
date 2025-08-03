@@ -1,19 +1,20 @@
-import mouseFollower from './core/mouseFollower.js';
-import parallax from './core/parallax.js';
-import magnetic from './core/magnetic.js';
-import splitText from './core/splitText.js';
-import reveal from './core/reveal.js';
-import typeText from './core/typeText.js';
-import scrollEffect from './core/scrollEffect.js';
-import scrollTo from './core/scrollTo.js';
-import pin from './core/pin.js';
-import smoothScroll from './core/smoothScroll.js';
-import pageTransition from './core/pageTransition.js';
-import onHover from './core/onHover.js';
-import animateIn from './core/animateIn.js';
-import animateOut from './core/animateOut.js';
-import timeline from './core/timeline.js';
-import loader from './core/loader.js';
+import mouseFollower from 'https://cdn.jsdelivr.net/gh/UvCodingOP/Finy/core/mouseFollower.js';
+import parallax from 'https://cdn.jsdelivr.net/gh/UvCodingOP/Finy/core/parallax.js';
+import magnetic from 'https://cdn.jsdelivr.net/gh/UvCodingOP/Finy/core/magnetic.js';
+import splitText from 'https://cdn.jsdelivr.net/gh/UvCodingOP/Finy/core/splitText.js';
+import reveal from 'https://cdn.jsdelivr.net/gh/UvCodingOP/Finy/core/reveal.js';
+import typeText from 'https://cdn.jsdelivr.net/gh/UvCodingOP/Finy/core/typeText.js';
+import scrollEffect from 'https://cdn.jsdelivr.net/gh/UvCodingOP/Finy/core/scrollEffect.js';
+import scrollTo from 'https://cdn.jsdelivr.net/gh/UvCodingOP/Finy/core/scrollTo.js';
+import pin from 'https://cdn.jsdelivr.net/gh/UvCodingOP/Finy/core/pin.js';
+import smoothScroll from 'https://cdn.jsdelivr.net/gh/UvCodingOP/Finy/core/smoothScroll.js';
+import pageTransition from 'https://cdn.jsdelivr.net/gh/UvCodingOP/Finy/core/pageTransition.js';
+import onHover from 'https://cdn.jsdelivr.net/gh/UvCodingOP/Finy/core/onHover.js';
+import animateIn from 'https://cdn.jsdelivr.net/gh/UvCodingOP/Finy/core/animateIn.js';
+import animateOut from 'https://cdn.jsdelivr.net/gh/UvCodingOP/Finy/core/animateOut.js';
+import timeline from 'https://cdn.jsdelivr.net/gh/UvCodingOP/Finy/core/timeline.js';
+import loader from 'https://cdn.jsdelivr.net/gh/UvCodingOP/Finy/core/loader.js';
+
 
 class Finy {
   mouseFollower(selector, options = {}) {
