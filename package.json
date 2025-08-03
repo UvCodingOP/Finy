@@ -1,0 +1,15 @@
+{
+  "name": "finy",
+  "version": "1.0.0",
+  "description": "A smooth interaction and animation library",
+  "main": "index.js",
+  "unpkg": "dist/finy.umd.js",
+  "jsdelivr": "dist/finy.umd.js",
+  "keywords": ["animation", "cursor", "parallax", "scroll", "barba", "gsap"],
+  "author": "Utkarsh Verma",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uvcodingop/finy.git"
+  }
+}
